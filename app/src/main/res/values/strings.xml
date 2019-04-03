@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Image Filter App</string>
+
+    <string-array name="Apply_Filter">
+        <item>Apply Filter</item>
+        <item>Black Filter</item>
+        <item>Invert</item>
+        <item>Grey Scale</item>
+    </string-array>
+</resources>
